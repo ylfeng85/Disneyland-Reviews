@@ -108,4 +108,4 @@ The dataset used in this analysis comprises 42,000 reviews from three Disneyland
 - **Visitor Data:** Visitor demographics, including reviewer location and country of origin
 - **Sentiment Data:** Sentiment scores derived from review text, common terms used
 
-This project uses Disneyland data sourced from [Kaggle]([url](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews/data)).
+This project uses Disneyland data sourced from [Kaggle](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews/data).
