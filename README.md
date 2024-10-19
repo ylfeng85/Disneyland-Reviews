@@ -35,7 +35,7 @@ The project includes a series of interactive Tableau dashboards covering:
 - **Most Common Words Associated with High and Low Sentiment Scores:** Bar chart displaying Top 10 frequent terms linked to high and low sentiment ratings.
 - **Rating Over the Year and Month: **Line charts depicting trends in ratings over time, broken down by month and year.
 
-Visit the Tableau Dashboard to explore the visualizations and insights.
+Visit the [Tableau Dashboard](https://public.tableau.com/app/profile/melody.feng/viz/Disneyland_Reviews_Visualization/StarRatingDistribution) to explore the visualizations and insights.
 
 
 ## Key Questions and Insights
