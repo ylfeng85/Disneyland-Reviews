@@ -48,7 +48,7 @@ Visualization: Percent Distribution of Star Rating Per Park (Bar Chart), Percent
 
 Insight: Disneyland California has the highest number of reviews among all Disneyland parks having also the most  reviews from the USA, with 63.83% of those reviews being 5 stars. Additionally, 53.87% of all 5-star ratings across all Disneyland parks are for Disneyland California, highlighting its popularity and appeal.
 
-<img width="980" alt="Screenshot 2024-10-18 at 11 38 54 PM" src="https://github.com/user-attachments/assets/219c3ddc-ad05-445d-bee3-4eb3f719a571">
+<img width="985" alt="Screenshot 2024-10-23 at 4 32 25 PM" src="https://github.com/user-attachments/assets/ad615c4c-ccbf-4a20-bad1-c52762eb133f">
 
 ### 2. What factors influence the ratings and sentiment of visitors to the park?
 
@@ -58,7 +58,7 @@ Visualization: Bar chart displaying Top 10 frequent terms linked to high and low
 
 Insight: Words about rides, wait and time show up in both high and low sentiment reviews, suggesting that the ease of getting on rides significantly influences ratings. Those with higher sentiment likely experienced shorter wait times, possibly due to having passes.
 
-<img width="976" alt="Screenshot 2024-10-18 at 11 27 33 PM" src="https://github.com/user-attachments/assets/ad183a8a-759d-44d2-b2b0-b84faa49b5cf">
+<img width="980" alt="Screenshot 2024-10-23 at 4 32 30 PM" src="https://github.com/user-attachments/assets/e68ca51e-695f-40f8-81eb-7062c035344c">
 
 ### 3. Is there a trend in star ratings over the years?
 
@@ -68,7 +68,7 @@ Visualization: Line chart displaying average star ratings over the years for eac
 
 Insight: Overall, the parks experienced their lowest ratings in the year 2006 with a stable trend from 2008 onwards to 2019. 
 
-<img width="1431" alt="Screenshot 2024-10-19 at 12 07 59 AM" src="https://github.com/user-attachments/assets/f75b9231-6132-4dc1-bcde-c3fea528c745">
+<img width="987" alt="Screenshot 2024-10-23 at 4 32 36 PM" src="https://github.com/user-attachments/assets/11c2e422-6ed5-405e-9093-0f1bb0a539a3">
 
 ### 4. Is there a trend in star ratings over the months?
 
@@ -78,7 +78,7 @@ Visualization: Line chart showing average star ratings for each park across the 
 
 Insight: Parks generally saw the lowest ratings in August and the highest in September, potentially due to factors like longer wait times during summer vacations in August and reduced crowds as school resumes in September.
 
-<img width="1321" alt="Screenshot 2024-10-19 at 12 07 27 AM" src="https://github.com/user-attachments/assets/f3a6b305-8665-44d8-9eaf-b7345eeef121">
+<img width="982" alt="Screenshot 2024-10-23 at 4 32 42 PM" src="https://github.com/user-attachments/assets/4a55d8e5-9d00-4903-a28f-9ff5301321ac">
 
 ### Note: 
 _I analyzed star ratings by month and year without filtering by park as this provides holistic insights into overarching trends and visitor behavior that affect all parks collectively. This approach helps identify external factors, such as holidays or events, that may influence visitor satisfaction across multiple locations, while minimizing individual biases that could skew results for each park, enabling better strategic planning and operational adjustments._
