@@ -27,7 +27,7 @@ The primary objectives of this project are:
 **Preprocessing** (Disneyland_Preprocessing.ipynb)
 - Contains a Python notebook to clean, process EDA and feature engineer for analysis and visualization
 
-**Visualization** (CDisneyland_Reviews_Visualization.twb)
+**Visualization** (Disneyland_Reviews_Visualization.twb)
 - Contains a Tableau workbook file featuring visualizations, a dashboard, and a data story that encapsulates the key insights from the analysis
 
 ## Data Preprocessing 
