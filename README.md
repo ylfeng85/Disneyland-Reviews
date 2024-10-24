@@ -18,7 +18,18 @@ The primary objectives of this project are:
     - Conduct a time analysis to identify patterns in ratings throughout the year and across different months.
 4. Provide Data-Driven Insights:
     - Generate insights to optimize Disneyland’s performance based on customer reviews.
-  
+
+## Repository Structure
+
+**Dataset**
+- Contains the original DisneylandReviews.csv and the new cleaned / processed datasets sentiment_disneylandreviews.csv and updated_disneylandreviews.csv
+
+**Preprocessing** (Disneyland_Preprocessing.ipynb)
+- Contains a Python notebook to clean, process EDA and feature engineer for analysis and visualization
+
+**Visualization** (CDisneyland_Reviews_Visualization.twb)
+- Contains a Tableau workbook file featuring visualizations, a dashboard, and a data story that encapsulates the key insights from the analysis
+
 ## Data Preprocessing 
 
 The dataset was cleaned to address missing values in the Month and Year columns. Rather than dropping these rows, word matching was employed to extract the month and year from the Review column where applicable, maximizing the dataset's value.
